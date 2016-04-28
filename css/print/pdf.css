@@ -6,7 +6,7 @@
  */
 
 * {
-	-webkit-print-color-adjust: exact;
+	-webkit-print-color-adjust: economy;
 }
 
 body {
@@ -15,6 +15,7 @@ body {
 	padding: 0;
 	float: none !important;
 	overflow: visible;
+        color: #000;
 }
 
 html {
